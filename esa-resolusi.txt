@@ -2,3 +2,5 @@ ESA RESOLUSI
 
 1. Belajar Laravel sampai bisa buat project
 2. Belajar Cisco untuk CCIE
+3. Membeli Macbook
+4. Belajar Phyton
